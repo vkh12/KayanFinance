@@ -11,13 +11,15 @@ You can view my progress [here][1].
 <br>
 <p align = "center"> 
  <b>Light Mode V1</b> <br> <br>
- <img width="500" height="auto" src="LightModeV1.png">
+ <img width="300" height="auto" src="LightModeV1.png">
+ <b>Light Mode V2</b> <br> <br>
+ <img width="300" height="auto" src="LightModeV2.png">
  </p>
 <br> 
 
 <br>
 <p align = "center"> 
  <b>Light Mode V2</b> <br> <br>
- <img width="500" height="auto" src="LightModeV2.png">
+ <img width="300" height="auto" src="LightModeV2.png">
  </p>
 <br> 
