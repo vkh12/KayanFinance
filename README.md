@@ -6,7 +6,7 @@ I designed their iOS user interface of their mobile application with Figma and d
 
 You can view my progress [here][1].
 
-https://github.com/vkh12/KayanFinance/blob/main/KayanVideoDemo.mov 
+https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov
 
 [1]: https://www.figma.com/file/g5GFbJBvmvUgYkgGnJZUF8/Kayan-Finance-Landing-Page
  
