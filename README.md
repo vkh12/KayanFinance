@@ -2,7 +2,7 @@
 
 I worked for Kayan Finance during the Spring semeter of 2022 as their Frontend Developer Intern. 
 
-I designed their iOS user interface of their mobile application with Figma and developed their web application from stratch with HTML, CSS, and JavaScript. 
+I designed their iOS user interface of their mobile application with Figma and developed their web application from stratch with HTML, CSS, and JavaScript. Unfortunately, this startup did not acquire enough captial and closed down. I was only able to provide the code for the website and could not publish what I have designed and developed. As for the app, the wireframes were still in the works. 
 
 You can view my progress [here][1].
 
