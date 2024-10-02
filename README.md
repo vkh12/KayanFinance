@@ -13,12 +13,6 @@ View my Figma Wireframe Designs [here](https://www.figma.com/file/g5GFbJBvmvUgYk
 
 https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov
 
-### Light Mode V1
 <p align="center"> 
-  <img width="400" height="auto" src="LightModeV1.png" alt="Light Mode V1">
-</p>
-
-### Light Mode V2
-<p align="center"> 
-  <img width="400" height="auto" src="LightModeV2.png" alt="Light Mode V2">
+  <img width="400" height="auto" src="LightModeV1.png">
 </p>
