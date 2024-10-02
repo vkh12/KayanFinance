@@ -24,4 +24,4 @@ You can view my progress [here](https://www.figma.com/file/g5GFbJBvmvUgYkgGnJZUF
 </p>
 
 ### Video Demonstration
-[Watch my progress here](https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov).
+![Watch my progress here](https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov).
