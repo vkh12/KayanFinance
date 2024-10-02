@@ -10,9 +10,7 @@ During my internship at Kayan Finance, I had the opportunity to contribute as a 
 Unfortunately, the startup faced challenges in securing sufficient capital and ultimately closed down. As a result, I was only able to provide the code for the website and could not publish my designs or the developed application.
 
 View my work [here](https://www.figma.com/file/g5GFbJBvmvUgYkgGnJZUF8/Kayan-Finance-Landing-Page).
-
-### Video Demonstration
-!(https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov)
+(https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov)
 
 ## Visual Designs
 ### Light Mode V1
