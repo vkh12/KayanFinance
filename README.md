@@ -11,6 +11,9 @@ Unfortunately, the startup faced challenges in securing sufficient capital and u
 
 You can view my progress [here](https://www.figma.com/file/g5GFbJBvmvUgYkgGnJZUF8/Kayan-Finance-Landing-Page).
 
+### Video Demonstration
+![Watch my progress here](https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov).
+
 ## Visual Designs
 
 ### Light Mode V1
@@ -22,6 +25,3 @@ You can view my progress [here](https://www.figma.com/file/g5GFbJBvmvUgYkgGnJZUF
 <p align="center"> 
   <img width="400" height="auto" src="LightModeV2.png" alt="Light Mode V2">
 </p>
-
-### Video Demonstration
-![Watch my progress here](https://user-images.githubusercontent.com/66217119/211705052-ad0eeb8c-ec96-47da-ad77-a3377f2fc0c9.mov).
